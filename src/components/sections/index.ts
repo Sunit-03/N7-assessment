@@ -1,0 +1,10 @@
+export { default as Hero } from "./Hero";
+export { default as TrustedBy } from "./TrustedBy";
+export { default as Solutions } from "./Solutions";
+export { default as CloudCoreBanking } from "./CloudCoreBanking";
+export { default as EfficientSystem } from "./EfficientSystem";
+export { default as CTA } from "./CTA";
+export { default as Marquee } from "./Marquee";
+export { default as MobileAppFeatures } from "./MobileAppFeatures";
+export { default as Insights } from "./Insights";
+export { default as CaseStudies } from "./CaseStudies";
